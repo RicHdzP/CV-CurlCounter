@@ -10,6 +10,8 @@
 
 ##### Para utilizar:
 
+Abrir el archivo CV-CurlCounter-Ready.
+
 Instalar Mediapipe y OpenCV mediante el comando !pip install mediapipe opencv-python.
 
 Correr el código.
